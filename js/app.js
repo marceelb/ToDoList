@@ -3,7 +3,7 @@ const formulario = document.querySelector('#formulario');
 const listaIdeas = document.querySelector('#lista-ideas');
 let ideas = [];
 
-
+ 
 //Event Listeners
 eventListeners();
 
